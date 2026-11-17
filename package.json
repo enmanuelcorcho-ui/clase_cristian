@@ -1,0 +1,13 @@
+{
+  "name": "taller-aerolinea",
+  "version": "1.0.0",
+  "description": "Taller SENA ADSO - Arquitectura modular (Routes > Controllers > Services > Models)",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

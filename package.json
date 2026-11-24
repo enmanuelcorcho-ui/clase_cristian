@@ -1,8 +1,21 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^18.0.10",
     "express": "^5.3.0",
     "mongoose": "^9.13.0"
+=======
+  "name": "taller-aerolinea",
+  "version": "1.0.0",
+  "description": "Taller SENA ADSO - Arquitectura modular (Routes > Controllers > Services > Models)",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+>>>>>>> 291ecd22015668d479c644a3a32033d7aa7fd4be
   }
 }
